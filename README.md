@@ -224,8 +224,9 @@ Multi-step forecasting: 1hr=6.32 RMSE, 24hr=14.87 RMSE
 
 ## Team: Artificial Not Intelligent
 
-- Mah Qing Fung
-- Ajax Kang AJ
-- Chong Yu En
-- Lee Yi Mei
-- Oi Kay Yi
+Team Members:
+1. Mah Qing Fung (24065491)
+2. Chong Yu En (24004593)
+3. Oi Kay Yi (24004543)
+4. Ajax Kang AJ (24068556)
+5. Lee Yi Mei (24004595)
