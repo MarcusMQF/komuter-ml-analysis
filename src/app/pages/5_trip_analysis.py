@@ -10,7 +10,7 @@ from pathlib import Path
 
 # Add the src directory to the Python path for imports
 sys.path.append(str(Path(__file__).parents[2]))
-from src.app.utils.data_processor import process_user_input
+from src.app.utils.data_processor import process_user_input_for_lstm
 
 st.set_page_config(page_title="Trip Analysis", page_icon="📍")
 
@@ -86,11 +86,10 @@ else:
                 # Convert time input to datetime.time object
                 selected_hour = int(time_input.split(':')[0])
                 selected_time = datetime.strptime(time_input, "%H:%M").time()
-                
-                # Process user input for prediction
+                  # Process user input for prediction
                 try:
                     # Process the input using our data processor
-                    processed_input = process_user_input(
+                    processed_input = process_user_input_for_lstm(
                         origin_station, 
                         destination_station, 
                         date_input, 
@@ -115,8 +114,7 @@ else:
                     
                     # Round to nearest integer
                     current_prediction = int(round(current_prediction))
-                    
-                    # Generate hourly predictions for the day
+                      # Generate hourly predictions for the day
                     hourly_predictions = []
                     for hour in range(24):
                         # Create a time object for this hour
@@ -124,7 +122,7 @@ else:
                         
                         try:
                             # Process input for this hour
-                            hour_input = process_user_input(
+                            hour_input = process_user_input_for_lstm(
                                 origin_station, 
                                 destination_station, 
                                 date_input, 
