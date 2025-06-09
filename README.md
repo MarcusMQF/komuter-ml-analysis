@@ -2,7 +2,12 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://www.tensorflow.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Pandas](https://img.shields.io/badge/Pandas-1.0+-green.svg)](https://pandas.pydata.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-ff69b4.svg)](https://streamlit.io/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.20+-lightblue.svg)](https://numpy.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-yellow.svg)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-1.5+-red.svg)](https://xgboost.readthedocs.io/)
+[![Prophet](https://img.shields.io/badge/Prophet-1.0+-9cf.svg)](https://facebook.github.io/prophet/)
 
 ## Project Overview
 
@@ -224,7 +229,6 @@ Multi-step forecasting: 1hr=6.32 RMSE, 24hr=14.87 RMSE
 
 ## Team: Artificial Not Intelligent
 
-Team Members:
 1. Mah Qing Fung (24065491)
 2. Chong Yu En (24004593)
 3. Oi Kay Yi (24004543)

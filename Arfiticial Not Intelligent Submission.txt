@@ -1,0 +1,18 @@
+Github Link:
+https://github.com/MarcusMQF/komuter-ml-analysis
+
+Summary Notebook Link:
+https://github.com/MarcusMQF/komuter-ml-analysis/blob/main/notebooks/final_summary.ipynb
+
+Presentation Slide Link:
+https://www.canva.com/design/DAGpgVkrorw/hl5i5ZfoGawtWzBEeJsgIg/edit?utm_content=DAGpgVkrorw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Presentation Video Link:
+https://youtu.be/YjFksoqPE84
+
+Team Members:
+1. Mah Qing Fung (24065491)
+2. Chong Yu En (24004593)
+3. Oi Kay Yi (24004543)
+4. Ajax Kang AJ (24068556)
+5. Lee Yi Mei (24004595)
